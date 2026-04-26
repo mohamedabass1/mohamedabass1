@@ -79,4 +79,4 @@ Completed a comprehensive programming roadmap covering:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-r-abass/)
-- [Email](mohammed.abass.professional@gmail.com)
+- [mohammed.abass.professional@gmail.com](mailto:mohammed.abass.professional@gmail.com)
