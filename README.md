@@ -2,10 +2,13 @@
 ### Backend Developer | C# | .NET
 
 Welcome to my GitHub!  
-I’m a backend-focused developer passionate about building real-world systems using C# and .NET technologies. I focus on building scalable desktop applications, designing clean architectures, and implementing secure and maintainable business systems.
+I’m a backend-focused C# Developer with strong foundations in OOP, algorithms, database design, and software architecture.
 
-I enjoy transforming complex business requirements into structured software solutions while continuously improving my software engineering, database design, backend development, and system architecture skills.
+Built real-world desktop systems using C#, ADO.NET, and SQL Server, applying clean 3-tier architecture, scalable business logic, and maintainable code practices.
 
+Experienced in authentication systems, transaction management, role-based access control, and designing efficient data access layers.
+
+Passionate about backend development, clean architecture, and building scalable real-world applications while continuously improving problem-solving and software engineering skills.
 ---
 
 # 🛠️ Tech Stack
