@@ -9,6 +9,7 @@ Built real-world desktop systems using C#, ADO.NET, and SQL Server, applying cle
 Experienced in authentication systems, transaction management, role-based access control, and designing efficient data access layers.
 
 Passionate about backend development, clean architecture, and building scalable real-world applications while continuously improving problem-solving and software engineering skills.
+
 ---
 
 # 🛠️ Tech Stack
