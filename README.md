@@ -81,7 +81,7 @@ C#, .NET Framework, WinForms, SQL Server, ADO.NET
 
 ---
 
-## 🚘 [Driving & Vehicle License Department (DVLD) System](https://github.com/mohamedabass1/Driving-Vehicle-License-Department-DVLD-/tree/main)
+## 🚘 [Driving & Vehicle License Department (DVLD) System](https://github.com/mohamedabass1/Driving-Vehicle-License-Department-DVLD-)
 
 A real-world desktop application for managing driving licenses, applications, tests, and workflows using layered architecture and database-driven logic.
 
